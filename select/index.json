@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "CHAMELEON",
+  "base_artist": "King Gnu",
+  "createdAt": "2025-12-06T04:02:52.931325Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chameleon",
+      "artist": "Creedence Clearwater Revival",
+      "has_synced": true,
+      "path": "select/01_Chameleon_Creedence_Clearwater_Revival.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chameleon - Remastered 2017",
+      "artist": "Elton John",
+      "has_synced": false,
+      "path": "select/02_Chameleon_-_Remastered_2017_Elton_John.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Heaven Can Wait (Live at Chameleon Studios 2016)",
+      "artist": "Gamma Ray",
+      "has_synced": false,
+      "path": "select/03_Heaven_Can_Wait_(Live_at_Chameleon_Studios_2016)_Gamma_Ray.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Karma Chameleon",
+      "artist": "Culture Club",
+      "has_synced": true,
+      "path": "select/04_Karma_Chameleon_Culture_Club.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chameleon Day",
+      "artist": "Talk Talk",
+      "has_synced": false,
+      "path": "select/05_Chameleon_Day_Talk_Talk.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chameleon World",
+      "artist": "Jerry Paper",
+      "has_synced": true,
+      "path": "select/06_Chameleon_World_Jerry_Paper.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Coma Chameleon",
+      "artist": "Jamie Lidell",
+      "has_synced": true,
+      "path": "select/07_Coma_Chameleon_Jamie_Lidell.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Chameleon",
+      "artist": "Elisa",
+      "has_synced": true,
+      "path": "select/08_Chameleon_Elisa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "She Chameleon - Demo",
+      "artist": "Marillion",
+      "has_synced": true,
+      "path": "select/09_She_Chameleon_-_Demo_Marillion.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chameleon",
+      "artist": "Millencolin",
+      "has_synced": true,
+      "path": "select/10_Chameleon_Millencolin.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chameleon",
+      "artist": "Warrant",
+      "has_synced": false,
+      "path": "select/11_Chameleon_Warrant.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dream Healer (Instrumental - Live at Chameleon Studios 2017) [Remastered]",
+      "artist": "Gamma Ray",
+      "has_synced": false,
+      "path": "select/12_Dream_Healer_(Instrumental_-_Live_at_Chameleon_Studios_2017)_[Remastered]_Gamma_Ray.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dream Healer (Instrumental - Live at Chameleon Studios 2017) (Remastered)",
+      "artist": "Gamma Ray",
+      "has_synced": false,
+      "path": "select/13_Dream_Healer_(Instrumental_-_Live_at_Chameleon_Studios_2017)_(Remastered)_Gamma_Ray.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Little Chameleon",
+      "artist": "Aimee Mann",
+      "has_synced": true,
+      "path": "select/14_Little_Chameleon_Aimee_Mann.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chameleon",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_01_Chameleon_King_Gnu.txt"
+    }
+  ]
+}
